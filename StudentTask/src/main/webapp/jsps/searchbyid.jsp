@@ -1,0 +1,1 @@
+${s.getId()} ${s.getName()} ${s.getCourse()} ${s.getFees()}
